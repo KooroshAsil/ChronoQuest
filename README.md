@@ -6,7 +6,8 @@ This repository gathers intuitive explanations, short examples, and project writ
 ## 📂 Structure
 
 - **notes/** — 📝 friendly explanations and practical notes on time series concepts.  
-- **projects/** — 🧪 concise project summaries, results, and code pointers.  
+- **projects/** — 🧪 concise project summaries, results, and code pointers.
+- **datasets/** — 📊 ontains the datasets used across the projects.
 - **README.md** — 📖 this overview of the repository and how to use it.
 
 ## 🚀 Using This Repository
